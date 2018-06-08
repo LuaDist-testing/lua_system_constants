@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua_system_constants"
-version = "0.1.1-0"
+version = "0.1.2-0"
 -- LuaDist source
 source = {
-  tag = "0.1.1-0",
+  tag = "0.1.2-0",
   url = "git://github.com/LuaDist-testing/lua_system_constants.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/Mashape/lua-system-constants",
---   tag = "0.1.1"
+--   tag = "0.1.2"
 -- }
 description = {
   summary = "System Constants",
